@@ -11,4 +11,4 @@ Turn AI insights into strategy by crafting a stakeholder-ready business report t
 Design an AI-powered collections strategy to help Geldium engage high-risk customers with smart, fair, and scalable outreach
 
 ## CERTIFICATE
-[View Certificate](GenAI%20Powered%20Data%20Analytics)
+[View Certificate](GenAI%20Powered%20Data%20Analytics.pdf)
