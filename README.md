@@ -1,4 +1,4 @@
-# TATA---GenAI-Powered-Data-Analytics
+# TATA-GenAI Powered Data Analytics
 As an AI transformation consultant at Tata iQ, I was tasked with helping Geldium Finance, a financial services company, reduce its high credit card delinquency rate by performing advanced analytics and building AI/ML models with the assistance of GenAI. 
 
 ## TASK 1
